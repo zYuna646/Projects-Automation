@@ -1,0 +1,65 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects]
+"MUIVerb"="Projects"
+"SubCommands"=""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_laravel]
+"MUIVerb"="Laravel"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_laravel\command]
+@="\"D:\\automatic\\create_laravel_project.bat\" \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_next]
+"MUIVerb"="Next.js"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_next\command]
+@="\"D:\\automatic\\create_next_project.bat\" \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_ml]
+"MUIVerb"="Machine Learning"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_ml\command]
+@="\"D:\\automatic\\create_ml_project.bat\" \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_expo]
+"MUIVerb"="Expo"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_expo\command]
+@="\"D:\\automatic\\create_expo_project.bat\" \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_django]
+"MUIVerb"="Django"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_django\command]
+@="\"D:\\automatic\\create_django_project.bat\" \"%V\""
+
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_flask]
+"MUIVerb"="Flask"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_flask\command]
+@="\"D:\\automatic\\create_flask_project.bat\" \"%V\""
+
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_express]
+"MUIVerb"="Express.js"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_express\command]
+@="\"D:\\automatic\\create_express_project.bat\" \"%V\""
+
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_react]
+"MUIVerb"="React.js"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_react\command]
+@="\"D:\\automatic\\create_react_project.bat\" \"%V\""
+
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_electron]
+"MUIVerb"="Electron"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_electron\command]
+@="\"D:\\automatic\\create_electron_project.bat\" \"%V\""
+
+
