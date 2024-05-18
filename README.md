@@ -13,6 +13,7 @@ This repository contains automated scripts to create various types of software d
 - **Express.js**: Create a new Express.js project.
 - **React.js**: Create a new React.js project.
 - **Electron**: Create a new Electron project.
+- **NPM Raw**: Create a new NPM Raw project.
 
 ## How to Use
 
