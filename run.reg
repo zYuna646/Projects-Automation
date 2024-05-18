@@ -58,8 +58,8 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_electron\command]
 @="cmd.exe /s /c \"\"%V\\create_electron_project.bat\" \"%V\"\""
 
-[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_electron]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_npm]
 "MUIVerb"="NPM Raw"
 
-[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_electron\command]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Projects\shell\c_npm\command]
 @="cmd.exe /s /c \"\"%V\\create_npm_project.bat\" \"%V\"\""
