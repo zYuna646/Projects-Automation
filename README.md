@@ -22,4 +22,4 @@ This repository contains automated scripts to create various types of software d
 4. Navigate to the directory of the cloned repository.
 5. Run the script for the desired project by using the following command:
    ```bash
-   D:\\automatic\\create_<project>_project.bat
+   create_<project>_project.bat
