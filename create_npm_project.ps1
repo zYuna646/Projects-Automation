@@ -23,3 +23,5 @@ console.log('Hello, world!');
 "@ | Set-Content -Path "app.js" -Encoding UTF8
 
 Write-Output "Project created successfully in $path\$projectName"
+
+Pause
