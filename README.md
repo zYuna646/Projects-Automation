@@ -36,14 +36,14 @@ This repository contains automated scripts to create various types of software d
    - Download the `Projects-Automation.zip` file from the release page.
 
 2. **Extract the Package:**
-   - Extract the contents of the zip file to `D:\automatic\`.
+   - Extract the contents of the zip file .
 
 3. **Merge Registry File:**
-   - Locate the `Projects-Automation.reg` file within the extracted folder.
-   - Double-click the `Projects-Automation.reg` file and confirm the merge to add the context menu entries to the Windows Registry.
+   - Locate the `run.bat` file within the extracted folder.
+   - Double-click the `run.bat` as Administrator
 
 4. **Batch Files:**
-   - Ensure the following batch files are present in the `D:\automatic\` directory:
+   - Ensure the following batch files are present in the directory:
      - `create_laravel_project.bat`
      - `create_next_project.bat`
      - `create_ml_project.bat`
@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Support
 
-For issues, questions, or feedback, please open an issue on the [GitHub repository](https://github.com/your-repo-link).
+For issues, questions, or feedback, please open an issue on the [GitHub repository](https://github.com/zYuna646/Projects-Automation).
 
 ---
 
