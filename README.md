@@ -21,6 +21,4 @@ This repository contains automated scripts to create various types of software d
 2. Open a terminal or command prompt.
 3. Copy the URL of this repository and execute `git clone <URL>` in your terminal.
 4. Navigate to the directory of the cloned repository.
-5. Run the script for the desired project by using the following command:
-   ```bash
-   create_<project>_project.bat
+5. Run the run.bat script with administrator access. Ensure all the files are in the same folder.
