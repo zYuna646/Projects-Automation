@@ -1,7 +1,3 @@
-Certainly! Here's the updated README file based on the provided information:
-
----
-
 # Projects Automation
 
 This repository contains automated scripts to create various types of software development projects. By using these scripts, you can quickly create new projects without having to perform manual configuration.
